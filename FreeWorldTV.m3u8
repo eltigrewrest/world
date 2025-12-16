@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="Италия",111 TV
 https://5db313b643fd8.streamlock.net/111/111/chunklist.m3u8
-#EXTINF:-1 group-title="Гармания",123 TV
+#EXTINF:-1 group-title="Германия",123 TV
 http://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTINF:-1 group-title="Аргентина",13 Max
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
@@ -23,7 +23,7 @@ https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/index.m3u8
 #EXTINF:-1 group-title="Турция",360 TV Turkey
 http://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
-#EXTINF:-1 group-title="Гармания",3Sat
+#EXTINF:-1 group-title="Германия",3Sat
 http://176.10.117.68:6060/3satHD/tracks-v1a1/mono.m3u8
 
 
@@ -42,7 +42,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 group-title="Азербайджан",4Music AZ TV
 http://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
 
-#EXTINF:-1 group-title="Гармания",4Plus DE
+#EXTINF:-1 group-title="Германия",4Plus DE
 http://176.10.117.68:6060/4hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Великобритания",4Seven
@@ -62,7 +62,7 @@ http://176.124.103.200:18000/5tv/index.m3u8
 #EXTINF:-1 group-title="США",5USA
 http://92.118.251.84:8080/5usa/index.m3u8
 
-#EXTINF:-1 group-title="Молдова",7TV Moldova
+#EXTINF:-1 group-title="Молдавия",7TV Moldova
 http://185.164.82.18:9009/aDxLhVQm_7TV
 
 #EXTINF:-1 group-title="Индия",7X MUSIC
@@ -138,7 +138,7 @@ https://mcdn.br.de/br/fs/ard_alpha/hls/int/master.m3u8
 #EXTINF:-1 group-title="Сербия",ARTA NEWS
 http://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="Армания",ARTN
+#EXTINF:-1 group-title="Армения",ARTN
 https://streamer1.connectto.com/ARTN_mobile/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Румыния",AS TV Bistrita
