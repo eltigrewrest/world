@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="А-тест", Sky Sports News HQ HD
+#EXTINF:-1 group-title="А-тест", Sky Sports News
 http://pdaxqtsc.dienalt.org/iptv/HS3345MPPH7BLVV5AZD49HCE/9314/index.m3u8
 
 #EXTINF:-1 group-title="А-тест", Setanta Qazaqstan HD
@@ -12,9 +12,38 @@ http://pdaxqtsc.dienalt.org/iptv/HS3345MPPH7BLVV5AZD49HCE/20065/index.m3u8
 http://pdaxqtsc.dienalt.org/iptv/HS3345MPPH7BLVV5AZD49HCE/9123/index.m3u8
 
 #EXTINF:-1 group-title="А-тест", MM NewFilm 1 HD
-http://pdaxqtsc.dienalt.org/iptv/HS3345MPPH7BLVV5AZD49HCE/9123/index.m3u8
+http://pdaxqtsc.dienalt.org/iptv/HS3345MPPH7BLVV5AZD49HCE/13011/index.m3u8
 
-#EXTINF:-1 group-title="B-тест", 1 канал HD
+#EXTINF:-1 group-title="А-тест", MM NewFilm 2 HD
+http://pdaxqtsc.dienalt.org/iptv/HS3345MPPH7BLVV5AZD49HCE/13012/index.m3u8
+
+#EXTINF:-1 group-title="А-тест",MM NewFilm 3 HD
+http://pdaxqtsc.dienalt.org/iptv/HS3345MPPH7BLVV5AZD49HCE/13013/index.m3u8
+
+#EXTINF:-1 group-title="А-тест",MM NewFilm RU HD
+http://pdaxqtsc.dienalt.org/iptv/HS3345MPPH7BLVV5AZD49HCE/13014/index.m3u8
+
+#EXTINF:-1 group-title="А-тест",MM Rock HD
+http://pdaxqtsc.dienalt.org/iptv/HS3345MPPH7BLVV5AZD49HCE/13015/index.m3u8
+
+#EXTINF:-1 group-title="А-тест",MM Tom and Jerry HD
+http://pdaxqtsc.dienalt.org/iptv/HS3345MPPH7BLVV5AZD49HCE/13016/index.m3u8
+
+#EXTINF:-1 group-title="А-тест",MM UFO HD
+http://pdaxqtsc.dienalt.org/iptv/HS3345MPPH7BLVV5AZD49HCE/13017/index.m3u8
+
+
+#EXTINF:-1 group-title="А-тест",MM USSR 1941-1945 HD
+http://pdaxqtsc.dienalt.org/iptv/HS3345MPPH7BLVV5AZD49HCE/13018/index.m3u8
+
+#EXTINF:-1 group-title="А-тест",MM USSR Комедия HD
+http://pdaxqtsc.dienalt.org/iptv/HS3345MPPH7BLVV5AZD49HCE/13019/index.m3u8
+
+
+#EXTINF:-1 group-title="B-тест", VF VHS Cartoon
+https://captaintv.space/iptv/users/alanats1991/gyewlf.m3u8
+
+#EXTINF:-1 group-title="B-тест", Первый канал HD
 https://captaintv.space/iptv/users/alanats1991/qWbJph.m3u8
 
 #EXTINF:-1 group-title="B-тест", VF Ужасы
@@ -22,6 +51,31 @@ https://captaintv.space/iptv/users/alanats1991/JFTAcf.m3u8
 
 #EXTINF:-1 group-title="B-тест", VF Detective
 https://captaintv.space/iptv/users/alanats1991/SURNLD.m3u8
+
+#EXTINF:-1 group-title="B-тест", VF Малыш
+https://captaintv.space/iptv/users/alanats1991/Oepedf.m3u8
+
+#EXTINF:-1 group-title="B-тест", VF Военные
+https://captaintv.space/iptv/users/alanats1991/CAzmYD.m3u8
+
+#EXTINF:-1 group-title="B-тест", VF Фильмы СССР
+https://captaintv.space/iptv/users/alanats1991/Yklcpb.m3u8
+
+#EXTINF:-1 group-title="B-тест", VF Кино 4K
+https://captaintv.space/iptv/users/alanats1991/yciNXM.m3u8
+
+#EXTINF:-1 group-title="B-тест", VF TOP Series
+https://captaintv.space/iptv/users/alanats1991/raTBuA.m3u8
+
+#EXTINF:-1 group-title="B-тест", VF Art house
+https://captaintv.space/iptv/users/alanats1991/QfeHcE.m3u8
+
+#EXTINF:-1 group-title="B-тест", VF Fantastic
+https://captaintv.space/iptv/users/alanats1991/NHZzip.m3u8
+
+#EXTINF:-1 group-title="B-тест", VF Бесстыжие
+https://captaintv.space/iptv/users/alanats1991/pIpziI.m3u8
+
 
 #EXTINF:-1 group-title="Италия",111 TV
 https://5db313b643fd8.streamlock.net/111/111/chunklist.m3u8
