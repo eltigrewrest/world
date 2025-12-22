@@ -30,17 +30,14 @@ https://songtv.hls.iptvdc.com/web-armenia/hd/playlist.m3u8
 #EXTINF:-1 group-title="Азербайджан"tvg-logo="https://baku.tv/assets/frontend/img/logo.svg", Baku TV
 https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
 
-#EXTINF:-1 group-title="Азербайджан"tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/atvazadtv-hdtvler-0lk8.webp", ATV AZAD
+#EXTINF:-1 group-title="Азербайджан" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/atvazadtv-hdtvler-0lk8.webp", ATV AZAD
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
 
-#EXTINF:-1 group-title="Азербайджан"https://tv.canlitvvolo.com/media/images/tvlogo/arbtvaz-hdtvler-5jl9.webp", ARB тест
+#EXTINF:-1 group-title="Азербайджан"  tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/arbtvaz-hdtvler-5jl9.webp", ARB 
 https://mydo.canlitvplayer.com/arbhd.m3u8?bandwidth=6096&e=1766503520&playlistlength=5&shift=0&sid=coder_62&token=d5b8bd84d9cafb8a87ba7c6ce7670a4f&user=37076
 
-#EXTINF:-1 group-title="Азербайджан"tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/xezertvaz-logo-tvlive-8nmp.webp", Xezer Тест1
+#EXTINF:-1 group-title="Азербайджан" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/xezertvaz-logo-tvlive-8nmp.webp", Xezer 
 https://mydo.canlitvplayer.com/xazer.m3u8?bandwidth=2096&e=1766503669&playlistlength=5&shift=0&sid=coder_53&token=a62a0e3ec890badcca8409f541f4f450&user=37076
-
-#EXTINF:-1 group-title="Азербайджан"tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/xezertvaz-logo-tvlive-8nmp.webp", Xezer Тест2
-https://mydo.canlitvplayer.com/xazer.m3u8
 
 #EXTINF:-1 group-title="Италия",111 TV
 https://5db313b643fd8.streamlock.net/111/111/chunklist.m3u8
