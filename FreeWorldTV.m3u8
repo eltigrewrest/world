@@ -8,7 +8,7 @@ https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
 https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Армения" tvg-logo="https://audioefir.ru/wp-content/uploads/2023/09/fresh-tv-armenia.jpg", Fresh TV (Armenia)
-https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8
+https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
 
 #EXTINF:-1 group-title="Армения" tvg-logo="https://audioefir.ru/wp-content/uploads/2024/05/amga-tv-armenian-335x220.webp", AMGA TV Armenian
 https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.ts.m3u8
