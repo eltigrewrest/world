@@ -55,7 +55,7 @@ https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 #EXTINF:-1 group-title="Турция",24 TV Turkey
 http://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 
-#EXTINF:-1 group-title="Марокко",2M Monde
+#EXTINF:-1 group-title="Африка",2M Monde Марокко
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:-1 group-title="Испания",324 NOTICIES
 https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/index.m3u8
@@ -551,12 +551,12 @@ https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
 https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
 #EXTINF:-1 group-title="Венгрия",Balaton TV
 http://stream.iptvservice.eu/hls/balatontv.m3u8
-#EXTINF:-1 group-title="Македония",Balkan Music
+#EXTINF:-1 group-title="Остальная Европа",Balkan Music
 http://giganet.mk/hls/balkanmusictv.m3u8
 
 #EXTINF:-1 group-title="Турция",Balkan Turk
 http://live.euromediacenter.com/balkanturktv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Македония",Balkanika Music
+#EXTINF:-1 group-title="Остальная Европа",Balkanika Music
 http://85.11.144.6:6060/play/Balkanika/index.m3u8
 
 #EXTINF:-1 group-title="Румыния",Banat TV
@@ -811,7 +811,7 @@ http://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 #EXTINF:-1 group-title="Азия",Cao Bang
 http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="Швейцария",Carac 1
+#EXTINF:-1 group-title="Остальная Европа",Carac 1 Швейцария
 https://edge11.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8
 
 #EXTINF:-1 group-title="Италия",Carina TV
@@ -1189,7 +1189,7 @@ http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 
 #EXTINF:-1 group-title="Германия",Euro Indie Music
 https://57068da1deb21.streamlock.net/euroindiemusic/euroindiemusic/chunklist.m3u8
-#EXTINF:-1 group-title="Великобрития",Euro News34
+#EXTINF:-1 group-title="Великобритания",Euro News34
 http://live.euromediacenter.com/euronews34/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Италия",Euro TV
 https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
@@ -1589,7 +1589,7 @@ http://knews.livebox.co.in/youtubehls/live.m3u8
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/chunklist.m3u8
 #EXTINF:-1 group-title="Сербия",KTV Zrenjanin
 https://ktvuzivo.rs/memfs/aa5f6ceb-b0e8-46a1-becf-348613489702.m3u8
-#EXTINF:-1 group-title="Европа",KVF TV
+#EXTINF:-1 group-title="Остальная Европа",KVF TV
 http://w-live-edge2.kringvarp.fo:1935/uttanlands/1080/playlist.m3u8
 #EXTINF:-1 group-title="США",Kabbalah TV
 http://edge3.uk.kab.tv/live/eng-high/chunks.m3u8
