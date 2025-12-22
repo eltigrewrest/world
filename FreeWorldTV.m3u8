@@ -1,10 +1,10 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Армения", 1Lurer
+#EXTINF:-1 group-title="Армения" tvg-logo="https://audioefir.ru/wp-content/uploads/2024/05/1lurer-225x220.webp", 1Lurer
 https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Армения", Первый канал Армения
+#EXTINF:-1 group-title="Армения" tvg-logo="https://audioefir.ru/wp-content/uploads/2023/11/pervyy-kanal-armeniya-250x220.webp", Первый канал Армения
 https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Армения", ARTN TV
